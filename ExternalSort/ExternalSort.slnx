@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ExternalSort/ExternalSort.vcxproj" Id="12244cae-fc80-4c5b-881a-a396c48dd1fa" />
+</Solution>

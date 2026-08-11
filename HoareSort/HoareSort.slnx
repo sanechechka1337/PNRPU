@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HoareSort/HoareSort.vcxproj" Id="9698caa1-4f90-46b6-8b59-35a24ffa8054" />
+</Solution>
